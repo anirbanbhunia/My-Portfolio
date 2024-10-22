@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Pokedex Web Application 🐿️",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A web-based application built with React that allows users to search for, view, and learn about various Pokémon, including their types, abilities, and stats. This project leverages an external API for real-time Pokémon data and provides an interactive user experience.",
+    url: "https://anirban010-pokedex.netlify.app", 
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Better.com Replica Project 🌐",
+  description:
+    "A project that replicates key pages of the Better.com website using React. This involved creating a responsive design that closely mimics the original site’s functionality and layout.",
+  url: "https://better-anirbanbhunias-projects.vercel.app",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "ToDo Application ✅",
+  description:
+    "A simple and intuitive ToDo application that allows users to create, edit, and delete tasks. This project focuses on providing a user-friendly interface and efficient task management.",
+  url: "https://abxn-todo.netlify.app",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Currency Converter Application 💱",
+  description:
+    "A web application that allows users to convert amounts between different currencies using real-time exchange rates. This project emphasizes accuracy and user-friendly design.",
+  url: "https://currency-converter0abxn.netlify.app",
   },
 ];
 
